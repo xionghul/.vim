@@ -1,4 +1,5 @@
 # .vim
+for MAC.
 
 cd ;
 git clone https://github.com/xionghul/.vim.git;
